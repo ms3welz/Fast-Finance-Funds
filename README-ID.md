@@ -13,6 +13,10 @@ Beberapa keunggulan layanan pinjaman yang ditawarkan adalah:
 
 Layanan dimulai dari Rp 2,5 juta. Informasi kontak layanan pelanggan juga disediakan di 0857-4106-3342. Ada juga ikon media sosial seperti Instagram, Facebook, YouTube, dan Twitter di sisi kanan poster, mengundang untuk mengunjungi @kjmpusat atau situs web kspjayamanunggal.co.id untuk informasi lebih lanjut.
 
+## Pratinjau
+
+![QLP-Main](output/QLP-Main.png)
+
 ## Struktur Proyek
 
 - `📦 assets/` - Berisi semua aset gambar dan font yang diperlukan untuk desain.

@@ -13,6 +13,10 @@ Some advantages of the loan service offered are:
 
 The service starts from Rp 2.5 million. Contact information for customer service is also provided at 0857-4106-3342. There are also social media icons like Instagram, Facebook, YouTube, and Twitter on the right side of the poster, inviting to visit @kjmpusat or the website kspjayamanunggal.co.id for more information.
 
+## Preview
+
+![QLP-Main](output/QLP-Main.png)
+
 ## Project Structure
 
 - `📦 assets/` - Contains all the image assets and fonts required for the design.
